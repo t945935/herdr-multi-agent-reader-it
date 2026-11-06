@@ -1,0 +1,162 @@
+{
+  "resource_version": "1.0.0",
+  "book_edition": "1.0",
+  "title": "Orchestrare agenti di IA con Herdr",
+  "language": "it",
+  "rights_authority": "Happy eBook detiene i diritti di tutte le edizioni linguistiche; l'utente ha autorizzato espressamente la traduzione italiana e la distribuzione delle risorse di accompagnamento.",
+  "license": "Non viene concessa una licenza open source generale. Il pacchetto è distribuito come materiale di accompagnamento al libro.",
+  "files": {
+    ".gitignore": {
+      "bytes": 40,
+      "sha256": "26ac80a95e01af54e4519059af108a562e146c6575072872ec91e145591c2a1c"
+    },
+    "CHANGELOG.md": {
+      "bytes": 263,
+      "sha256": "17e0b0554d1f655bfba452896329881f567ae81b22936bc11ef2a018c6a31a95"
+    },
+    "README.md": {
+      "bytes": 792,
+      "sha256": "61160d5aaf925fed03392fb51d21fc7510a33f20bcb764d289ecd6f6bd4845b9"
+    },
+    "examples/README.md": {
+      "bytes": 1996,
+      "sha256": "69e5b3fafd52d195f2bb59c827d2734a9bc8cd71df4c6b6257dd76b985330ed3"
+    },
+    "examples/__init__.py": {
+      "bytes": 84,
+      "sha256": "6c15f7655d336eb708deb4b05a497641972d8e7143de42bd1c6c26462ae656b9"
+    },
+    "examples/calculator.py": {
+      "bytes": 698,
+      "sha256": "4303df0ced830df3e49a35356a044e2aa3dca0c02977ebfb8b0c50908f21c268"
+    },
+    "examples/grades.py": {
+      "bytes": 2233,
+      "sha256": "6692effb9d6078b1e79e8411f394d305ef805d0874c1bcb647ca60298e913c5a"
+    },
+    "examples/handoff.py": {
+      "bytes": 1685,
+      "sha256": "62d614a7fa14b6be129a6ec1d77130b9b3dbe976a23c761b710a44ad97582151"
+    },
+    "examples/pipeline.py": {
+      "bytes": 2423,
+      "sha256": "693c343f42acc2add22c2b6abc3a16078551c24c0cac4e22f294f5861fdf68e6"
+    },
+    "examples/prompts/backend.md": {
+      "bytes": 428,
+      "sha256": "a15adfb22cd21faa80a32c909790b4b25c85610e5ee6c143b838b5b7b88606b7"
+    },
+    "examples/prompts/database.md": {
+      "bytes": 466,
+      "sha256": "2f69279ec6e5953be0a1efadd9156a59631faf4314d702f4e7a9c6af29a0a2ff"
+    },
+    "examples/prompts/developer.md": {
+      "bytes": 760,
+      "sha256": "0456ff8bfecbcf55397f144cf79483c816622a1dec3634f5a8d4ba3444cf1961"
+    },
+    "examples/prompts/fact-checker.md": {
+      "bytes": 426,
+      "sha256": "2c42b8e0b8c3050b944e5d610e24e81971e98a92dc01213bba8badaea6fc5097"
+    },
+    "examples/prompts/frontend.md": {
+      "bytes": 419,
+      "sha256": "c1d561d87420666830365e14d7c79c34d9d4f2d4419c81e1535d7d5cddc1eb0e"
+    },
+    "examples/prompts/grades-developer.md": {
+      "bytes": 1181,
+      "sha256": "a258264a190f6e8a167a6eab964deecaea486277880a10bab841eeaf1661bff8"
+    },
+    "examples/prompts/grades-qa.md": {
+      "bytes": 1007,
+      "sha256": "50cc00220c63c5887c4bc78d98eec6718b3a5a5c8f3cfbc56710bd8cc0b0471f"
+    },
+    "examples/prompts/manager.md": {
+      "bytes": 883,
+      "sha256": "e73aafe8dec0827ba0acd983454feb3d54d0d53fcb4b92aafa7abb60e063c6d0"
+    },
+    "examples/prompts/qa.md": {
+      "bytes": 380,
+      "sha256": "214bf11c1f7f3b52963f6e91983400c7c4ab2b0562095ff91ef594c9ceb557ab"
+    },
+    "examples/prompts/receipt-smoke.md": {
+      "bytes": 590,
+      "sha256": "2e0ba8645246966628a56a48b11676ac41dc229441b228c3134fe58f2d026893"
+    },
+    "examples/prompts/researcher.md": {
+      "bytes": 692,
+      "sha256": "c084bbb5d7ee1329c430e762fcd6740abdeddae6d2a0f051ad245db535f7728a"
+    },
+    "examples/prompts/reviewer-a.md": {
+      "bytes": 730,
+      "sha256": "3d46f741c165e3c9c5a1b3f7b790d6cba3664bf0d587e6296eb53c7308ccf1e9"
+    },
+    "examples/prompts/reviewer-b.md": {
+      "bytes": 734,
+      "sha256": "209f4214460aef9f19e2f8e7e915291e9b1603805d49b04115217875f64353f8"
+    },
+    "examples/queue.py": {
+      "bytes": 5740,
+      "sha256": "66c41af1ca2ec9f9bdc8986648e582c21af8299227232f27e8caff46e69909a8"
+    },
+    "examples/research-evidence.json": {
+      "bytes": 2818,
+      "sha256": "265370e41e95bd8a0f113de5c13a00beccbc143e332cb2357ed4eee145bc21f2"
+    },
+    "examples/research.py": {
+      "bytes": 2795,
+      "sha256": "b027da2c900ad563545e76de8e663b24e71d380d9b39291348d5c78d956f08d2"
+    },
+    "examples/task_manager/__init__.py": {
+      "bytes": 75,
+      "sha256": "03c441db852919dead059ec1d28a42acfada8fd806490546487860d2da182aa0"
+    },
+    "examples/task_manager/db.py": {
+      "bytes": 1966,
+      "sha256": "aed5bb28cf39ac85766147b8fa4321bec96b57b88dda14bf0023513a62b3bd30"
+    },
+    "examples/task_manager/main.py": {
+      "bytes": 2377,
+      "sha256": "e62e9716371891a6ac6e91fe6d335b49e59b4acb35b75a7cf4954682f3b97dd4"
+    },
+    "examples/task_manager/static/app.js": {
+      "bytes": 2362,
+      "sha256": "61a81e7cd1488ed308000f2598c70176e3a0a7a2a35b5c3d09b3cbc71d924cfe"
+    },
+    "examples/task_manager/static/index.html": {
+      "bytes": 654,
+      "sha256": "06a4d9875c9d9a08c247c94739d965b0e8f8fcb3507942dcfad11a853f620e69"
+    },
+    "examples/task_manager/static/style.css": {
+      "bytes": 658,
+      "sha256": "db5deebc566223289a597ef4aac2275004b787ee6ab842cd54e3876265c9c819"
+    },
+    "requirements.txt": {
+      "bytes": 61,
+      "sha256": "a45dd04a2d8a44160508ffc731ea77102ea2e861535fa92985c2a72b1475c835"
+    },
+    "scripts/make_handoff.py": {
+      "bytes": 712,
+      "sha256": "17eef16da7faaed705ccf4160e7bae2344456e9f43c14c621d9f27f07d95a6b3"
+    },
+    "scripts/probe_herdr.py": {
+      "bytes": 6365,
+      "sha256": "85b4e423c6b559f54c89588958d1c3aa514b63452f6a2951b84e1e5e4ed37244"
+    },
+    "scripts/team.py": {
+      "bytes": 2637,
+      "sha256": "7fa4bcd4ddeb8d7742a42a6bbac2860639358f3c0fdf6441f5978b30eb25b780"
+    },
+    "tests/test_api.py": {
+      "bytes": 2611,
+      "sha256": "dc6bd30bc59ff5967c0569ead4e51a6f2a94cfaf879ee813038883c8936c27d8"
+    },
+    "tests/test_contracts.py": {
+      "bytes": 5605,
+      "sha256": "636339394ee0bd0b31351dedc4397372e5ba66a648bf572aeb6651e98f9de4b3"
+    },
+    "tests/test_queue_concurrency.py": {
+      "bytes": 579,
+      "sha256": "bf949e76e4b9769caa17ccaabe9a30d89b248bf21d32b00e9cbe00583a0c5e16"
+    }
+  }
+}
