@@ -1,6 +1,6 @@
 # Pacchetto di accompagnamento per lettori — Herdr
 
-Versione delle risorse: 1.0.1
+Versione delle risorse: 1.0.2
 
 Questo pacchetto contiene esempi eseguibili, test, prompt e istruzioni brevi per *Orchestrare agenti di IA con Herdr*. Non include il testo a pagamento del libro.
 

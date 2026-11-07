@@ -1,9 +1,9 @@
 {
-  "resource_version": "1.0.1",
+  "resource_version": "1.0.2",
   "book_edition": "1.0",
   "title": "Orchestrare agenti di IA con Herdr",
   "language": "it",
-  "rights_authority": "Happy eBook detiene i diritti di tutte le edizioni linguistiche; l'utente ha autorizzato espressamente la traduzione italiana e la distribuzione delle risorse di accompagnamento.",
+  "rights_authority": "Happy eBook è titolare dei diritti del libro e autorizza questo pacchetto di accompagnamento.",
   "license": "Non viene concessa una licenza open source generale. Il pacchetto è distribuito come materiale di accompagnamento al libro.",
   "files": {
     ".gitignore": {
@@ -11,12 +11,12 @@
       "sha256": "26ac80a95e01af54e4519059af108a562e146c6575072872ec91e145591c2a1c"
     },
     "CHANGELOG.md": {
-      "bytes": 347,
-      "sha256": "780b034c9adc3b17ffa696e69e7d73a68a6fa0f023ec07e70c8299c63ae1209f"
+      "bytes": 452,
+      "sha256": "3ff52038e4e29e94f2d4f543effbed2ec0a8c8cf58135427997185b2b6f1de3b"
     },
     "README.md": {
       "bytes": 792,
-      "sha256": "da8b8a41396b10810378a013f85ccd3435e7fe2f8e9ca9ad0694cc1e532fef6a"
+      "sha256": "2bfbed4a38efc32900b2fbda62ce8e8e25fa95242b247ab9a300cba6d78f3a33"
     },
     "examples/README.md": {
       "bytes": 1996,

@@ -1,5 +1,9 @@
 # Registro delle modifiche
 
+## 1.0.2 — 2026-11-07
+
+- Precisata nel manifesto la dichiarazione pubblica dei diritti del pacchetto.
+
 ## 1.0.1 — 2026-11-06
 
 - Revisione localizzata dei commenti residui in italiano.
