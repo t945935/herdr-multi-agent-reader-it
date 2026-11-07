@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Capture CLI evidence; optionally exercise only newly-created sibling panes."""
+"""Raccoglie prove della CLI e, facoltativamente, prova nuovi riquadri adiacenti."""
 import argparse
 import json
 import os
@@ -60,7 +60,7 @@ def main():
                 names = ["book_check_a_" + suffix, "book_check_b_" + suffix]
                 for name, target in zip(names, [pane, second]):
                     command("agent", "start", name, "--kind", args.agents, "--pane", target, "--timeout", "30000", timeout=40)
-                # Fixed acceptance tokens test prompt delivery; they do not assert code-review quality.
+                # I token di accettazione fissi verificano la consegna del prompt, non la qualità della revisione.
                 prompts = ["Rispondi solo BOOK_AGENT_A_OK. È una prova di comunicazione del pacchetto per lettori. Non usare strumenti, non leggere o scrivere file e non avviare agenti.",
                             "Rispondi solo BOOK_AGENT_B_OK. È una prova di comunicazione del pacchetto per lettori. Non usare strumenti, non leggere o scrivere file e non avviare agenti."]
                 for name, prompt in zip(names, prompts):

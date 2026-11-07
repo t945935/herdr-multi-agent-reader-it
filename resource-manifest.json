@@ -1,5 +1,5 @@
 {
-  "resource_version": "1.0.0",
+  "resource_version": "1.0.1",
   "book_edition": "1.0",
   "title": "Orchestrare agenti di IA con Herdr",
   "language": "it",
@@ -11,12 +11,12 @@
       "sha256": "26ac80a95e01af54e4519059af108a562e146c6575072872ec91e145591c2a1c"
     },
     "CHANGELOG.md": {
-      "bytes": 263,
-      "sha256": "17e0b0554d1f655bfba452896329881f567ae81b22936bc11ef2a018c6a31a95"
+      "bytes": 347,
+      "sha256": "780b034c9adc3b17ffa696e69e7d73a68a6fa0f023ec07e70c8299c63ae1209f"
     },
     "README.md": {
       "bytes": 792,
-      "sha256": "61160d5aaf925fed03392fb51d21fc7510a33f20bcb764d289ecd6f6bd4845b9"
+      "sha256": "da8b8a41396b10810378a013f85ccd3435e7fe2f8e9ca9ad0694cc1e532fef6a"
     },
     "examples/README.md": {
       "bytes": 1996,
@@ -139,16 +139,16 @@
       "sha256": "17eef16da7faaed705ccf4160e7bae2344456e9f43c14c621d9f27f07d95a6b3"
     },
     "scripts/probe_herdr.py": {
-      "bytes": 6365,
-      "sha256": "85b4e423c6b559f54c89588958d1c3aa514b63452f6a2951b84e1e5e4ed37244"
+      "bytes": 6380,
+      "sha256": "f950e000291c9b21cca735e1f5dfabfab82c70dcd21126c091c821539e0d7ff0"
     },
     "scripts/team.py": {
       "bytes": 2637,
       "sha256": "7fa4bcd4ddeb8d7742a42a6bbac2860639358f3c0fdf6441f5978b30eb25b780"
     },
     "tests/test_api.py": {
-      "bytes": 2611,
-      "sha256": "dc6bd30bc59ff5967c0569ead4e51a6f2a94cfaf879ee813038883c8936c27d8"
+      "bytes": 2628,
+      "sha256": "b7e9c9e3fb4527c706589704969c3270f3fcdfeb333d2a7fe1c2b802c71b46bf"
     },
     "tests/test_contracts.py": {
       "bytes": 5605,
